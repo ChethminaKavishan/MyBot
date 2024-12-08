@@ -1,25 +1,32 @@
 class script(object):
 
-    START_TXT = """<b>ʜᴇʏ {}, <i>{}</i>
+    START_TXT = """<blockquote><b>ʜᴇʏ {}, <i>{}</i></blockquote>
     
-ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</b>"""
+<blockquote>ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</blockquote>
 
-    MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
-★ Database: <a href=https://www.mongodb.com>MongoDB</a>
-★ Language: <a href=https://www.python.org>Python</a>
-★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
+<blockquote>👨🏻‍💻ᴅᴇᴠᴇʟᴏᴘᴇʀ - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b></blockquote>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
-★ Username: @HA_Bots
-★ Country: Sri Lanka 🇱🇰"""
+    MY_ABOUT_TXT = """<blockquote><b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/AutoFilterCK_Bot>Auto Filter Bot</a></blockquote>
+<blockquote>👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a></blockquote>
+<blockquote>📡 ꜱᴇʀᴠᴇʀ: <a href=https://www.heroku.com>Heroku</a></blockquote>
+<blockquote>🗄 ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>MongoDB</a></blockquote>
+<blockquote>📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Python</a></blockquote>
+<blockquote>📚 ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>Pyrogram</a></blockquote>
+<blockquote>📢 ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/CK4U2>Click</a></b></blockquote>"""
 
-    STATUS_TXT = """🗂 Total Files: <code>{}</code>
-👤 Total Users: <code>{}</code>
-👥 Total Chats: <code>{}</code>
-🤑 Premium Users: <code>{}</code>
-✨ Used Storage: <code>{}</code>
-🗳 Free Storage: <code>{}</code>
-🚀 Bot Uptime: <code>{}</code>"""
+    MY_OWNER_TXT = """<blockquote><b>👨🏻‍💻 Name: Chethmina Kavishan</blockquote>
+<blockquote>🔎 Username: @KING_WMP</blockquote>
+<blockquote>🔮 About: @About_KingWMP</blockquote>
+<blockquote>🔑 ID: <code>5042338756</code></blockquote>
+<blockquote>🌍 Country: Sri Lanka🇱🇰</b></blockquote>"""
+
+    STATUS_TXT = """<blockquote>🗂 Total Files: <code>{}</code></blockquote>
+<blockquote>👤 Total Users: <code>{}</code></blockquote>
+<blockquote>👥 Total Chats: <code>{}</code></blockquote>
+<blockquote>🤑 Premium Users: <code>{}</code></blockquote>
+<blockquote>✨ Used Storage: <code>{}</code></blockquote>
+<blockquote>🗳 Free Storage: <code>{}</code></blockquote>
+<blockquote>🚀 Bot Uptime: <code>{}</code></blockquote>"""
 
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
@@ -37,7 +44,9 @@ I can't find the <b>{}</b> in my database! 🥲
 
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
-👉 Or not been released yet."""
+👉 Or not been released yet.
+
+📮 Send Your Requested Movie to <b><a href=https://telegram.me/RequestCK_Bot>this bot</a></b>"""
     
     EARN_TXT = """<b>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ꜰʀᴏᴍ ᴛʜɪs ʙᴏᴛ
 
@@ -67,21 +76,20 @@ I can't find the <b>{}</b> in my database! 🥲
 
 📝 ɴᴏᴛᴇ:- ʏᴏᴜ sʜᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ ɪɴ ɢʀᴏᴜᴘ. sᴇɴᴅ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ᴀɴ ᴀɴᴏɴʏᴍᴜs ᴀᴅᴍɪɴ.</b>"""
 
-    IMDB_TEMPLATE = """✅ I Found: <code>{query}</code>
+    IMDB_TEMPLATE = """<blockquote>✅ 𝕀 𝔽𝕠𝕦𝕟𝕕: <code>{query}</code></blockquote>
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating} / 10</a>
-☀️ Languages: {languages}
-📀 RunTime: {runtime} Minutes
+<blockquote>🏷 𝕋𝕚𝕥𝕝𝕖: <b><a href={url}>{title}</a></b>
+🎭 𝔾𝕖𝕟𝕣𝕖𝕤: <b>{genres}</b>
+📆 𝕐𝕖𝕒𝕣: <b><a href={url}/releaseinfo>{year}</a></b>
+🌟 ℝ𝕒𝕥𝕚𝕟𝕘: <b><a href={url}/ratings>{rating} / 10</a></b>
+🔊 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤: <b>{languages}</b>
+⏰ ℝ𝕦𝕟𝕋𝕚𝕞𝕖: <b>{runtime} Minutes</b></blockquote>
 
-🗣 Requested by: {message.from_user.mention}
-©️ Powered by: <b>{message.chat.title}</b>"""
+<blockquote>🙋🏻‍♂ ℝ𝕖𝕢𝕦𝕖𝕤𝕥𝕖𝕕 𝔹𝕐: {message.from_user.mention}</blockquote>
+<blockquote>©️ ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <b>{message.chat.title}</b></blockquote>"""
 
-    FILE_CAPTION = """<i>{file_name}</i>
-
-🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
+    FILE_CAPTION = """<blockquote><b>🎞ɴᴀᴍᴇ:</b> <code>{file_name}</code></blockquote>
+<blockquote><b>📥ꜱɪᴢᴇ: {file_size}</b></blockquote>"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 

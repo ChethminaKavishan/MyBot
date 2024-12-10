@@ -7,26 +7,26 @@ class script(object):
 <blockquote>👨🏻‍💻ᴅᴇᴠᴇʟᴏᴘᴇʀ - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b></blockquote>"""
 
     MY_ABOUT_TXT = """<blockquote><b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/AutoFilterCK_Bot>Auto Filter Bot</a></blockquote>
-<blockquote>👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a></blockquote>
-<blockquote>📡 ꜱᴇʀᴠᴇʀ: <a href=https://www.heroku.com>Heroku</a></blockquote>
-<blockquote>🗄 ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>MongoDB</a></blockquote>
-<blockquote>📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Python</a></blockquote>
-<blockquote>📚 ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>Pyrogram</a></blockquote>
-<blockquote>📢 ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/CK4U2>Click</a></b></blockquote>"""
+<blockquote>👨🏻‍💻 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a></blockquote>
+<blockquote>📡 𝕊𝕖𝕧𝕖𝕣: <a href=https://app.koyeb.com/>Koyeb</a></blockquote>
+<blockquote>🗄 𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖: <a href=https://www.mongodb.com>MongoDB</a></blockquote>
+<blockquote>📝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖: <a href=https://www.python.org>Python</a></blockquote>
+<blockquote>📚 𝕃𝕚𝕓𝕣𝕒𝕣𝕪: <a href=https://pyrogram.org>Pyrogram</a></blockquote>
+<blockquote>📢 𝕌𝕡𝕕𝕒𝕥𝕖𝕤: <a href=https://t.me/CK4U2>Click</a></b></blockquote>"""
 
-    MY_OWNER_TXT = """<blockquote><b>👨🏻‍💻 Name: Chethmina Kavishan</blockquote>
-<blockquote>🔎 Username: @KING_WMP</blockquote>
-<blockquote>🔮 About: @About_KingWMP</blockquote>
-<blockquote>🔑 ID: <code>5042338756</code></blockquote>
-<blockquote>🌍 Country: Sri Lanka🇱🇰</b></blockquote>"""
+    MY_OWNER_TXT = """<blockquote><b>👨🏻‍💻 ℕ𝕒𝕞𝕖: Chethmina Kavishan</blockquote>
+<blockquote>🔎 𝕌𝕤𝕖𝕣𝕟𝕒𝕞𝕖: @KING_WMP</blockquote>
+<blockquote>🔮 𝔸𝕓𝕠𝕦𝕥: @About_KingWMP</blockquote>
+<blockquote>🔑 𝕀𝔻: <code>5042338756</code></blockquote>
+<blockquote>🌍 ℂ𝕠𝕦𝕟𝕥𝕣𝕪: Sri Lanka🇱🇰</b></blockquote>"""
 
-    STATUS_TXT = """<blockquote>🗂 Total Files: <code>{}</code></blockquote>
-<blockquote>👤 Total Users: <code>{}</code></blockquote>
-<blockquote>👥 Total Chats: <code>{}</code></blockquote>
-<blockquote>🤑 Premium Users: <code>{}</code></blockquote>
-<blockquote>✨ Used Storage: <code>{}</code></blockquote>
-<blockquote>🗳 Free Storage: <code>{}</code></blockquote>
-<blockquote>🚀 Bot Uptime: <code>{}</code></blockquote>"""
+    STATUS_TXT = """<blockquote>🗂 𝕋𝕠𝕥𝕒𝕝 𝔽𝕚𝕝𝕖𝕤: <code>{}</code></blockquote>
+<blockquote>👤 𝕋𝕠𝕥𝕒𝕝 𝕌𝕤𝕖𝕣𝕤: <code>{}</code></blockquote>
+<blockquote>👥 𝕋𝕠𝕥𝕒𝕝 ℂ𝕙𝕒𝕥𝕤: <code>{}</code></blockquote>
+<blockquote>🤑 ℙ𝕣𝕖𝕞𝕚𝕦𝕞 𝕌𝕤𝕖𝕣𝕤: <code>{}</code></blockquote>
+<blockquote>✨ 𝕌𝕤𝕖𝕕 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <code>{}</code></blockquote>
+<blockquote>🗳 𝔽𝕣𝕖𝕖 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <code>{}</code></blockquote>
+<blockquote>🚀 𝔹𝕠𝕥 𝕌𝕡𝕥𝕚𝕞𝕖: <code>{}</code></blockquote>"""
 
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
@@ -86,10 +86,14 @@ I can't find the <b>{}</b> in my database! 🥲
 ⏰ ℝ𝕦𝕟𝕋𝕚𝕞𝕖: <b>{runtime} Minutes</b></blockquote>
 
 <blockquote>🙋🏻‍♂ ℝ𝕖𝕢𝕦𝕖𝕤𝕥𝕖𝕕 𝔹𝕐: {message.from_user.mention}</blockquote>
-<blockquote>©️ ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <b>{message.chat.title}</b></blockquote>"""
+<blockquote>𝔾𝕣𝕠𝕦𝕡 ℕ𝕒𝕞𝕖: <b>{message.chat.title}</b></blockquote>
 
-    FILE_CAPTION = """<blockquote><b>🎞ɴᴀᴍᴇ:</b> <code>{file_name}</code></blockquote>
-<blockquote><b>📥ꜱɪᴢᴇ: {file_size}</b></blockquote>"""
+<blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
+
+    FILE_CAPTION = """<blockquote><b>🎞ℕ𝕒𝕞𝕖:</b> <code>{file_name}</code></blockquote>
+<blockquote><b>📥𝕊𝕚𝕫𝕖: {file_size}</b></blockquote>
+
+<blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 
@@ -121,23 +125,16 @@ I can't find the <b>{}</b> in my database! 🥲
 
 /start - to check bot alive or not
 /settings - to change group settings as your wish
-/set_template - to set custom imdb template
-/set_caption - to set custom bot files caption
 /set_shortlink - group admin can set custom shortlink
 /get_custom_settings - to get your group settings details
 /set_welcome - to set custom new joined users welcome message for group
 /set_tutorial - to set custom tutorial link in result page button
-/id - to check group or channel id
-/set_fsub - to set force subscribe channels
-/remove_fsub - to remove all force subscribe channel</b>"""
+/id - to check group or channel id</b>"""
     
-    SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
+    SOURCE_TXT = """<blockquote><b>🔮𝕊𝕠𝕦𝕣𝕔𝕖 ℂ𝕠𝕕𝕖- <a href=https://t.me/+VhJIV2F3RxljNTNl>Click Here</a></blockquote>
 
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
-
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+<blockquote>👨🏻‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></blockquote>
+<blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐 - <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 

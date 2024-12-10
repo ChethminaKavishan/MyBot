@@ -6,27 +6,27 @@ class script(object):
 
 <blockquote>👨🏻‍💻ᴅᴇᴠᴇʟᴏᴘᴇʀ - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b></blockquote>"""
 
-    MY_ABOUT_TXT = """<blockquote><b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/AutoFilterCK_Bot>Auto Filter Bot</a></blockquote>
-<blockquote>👨🏻‍💻 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a></blockquote>
-<blockquote>📡 𝕊𝕖𝕧𝕖𝕣: <a href=https://app.koyeb.com/>Koyeb</a></blockquote>
-<blockquote>🗄 𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖: <a href=https://www.mongodb.com>MongoDB</a></blockquote>
-<blockquote>📝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖: <a href=https://www.python.org>Python</a></blockquote>
-<blockquote>📚 𝕃𝕚𝕓𝕣𝕒𝕣𝕪: <a href=https://pyrogram.org>Pyrogram</a></blockquote>
-<blockquote>📢 𝕌𝕡𝕕𝕒𝕥𝕖𝕤: <a href=https://t.me/CK4U2>Click</a></b></blockquote>"""
+    MY_ABOUT_TXT = """🤖 𝕄𝕪 ℕ𝕒𝕞𝕖: <blockquote><b><a href=https://t.me/AutoFilterCK_Bot>Auto Filter Bot</a></b></blockquote>
+👨🏻‍💻 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣: <blockquote><b><a href=https://t.me/KING_WMP>Chethmina Kavishan</a></b></blockquote>
+📡 𝕊𝕖𝕧𝕖𝕣: <blockquote><b><a href=https://app.koyeb.com/>Koyeb</a></b></blockquote>
+🗄 𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖: <blockquote><b><a href=https://www.mongodb.com>MongoDB</a></b></blockquote>
+📝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖: <blockquote><b><a href=https://www.python.org>Python</a></b></blockquote>
+📚 𝕃𝕚𝕓𝕣𝕒𝕣𝕪: <blockquote><b><a href=https://pyrogram.org>Pyrogram</a></b></blockquote>
+📢 𝕌𝕡𝕕𝕒𝕥𝕖𝕤: <blockquote><b><a href=https://t.me/CK4U2>Click</a></b></b></blockquote>"""
 
-    MY_OWNER_TXT = """<blockquote><b>👨🏻‍💻 ℕ𝕒𝕞𝕖: Chethmina Kavishan</blockquote>
-<blockquote>🔎 𝕌𝕤𝕖𝕣𝕟𝕒𝕞𝕖: @KING_WMP</blockquote>
-<blockquote>🔮 𝔸𝕓𝕠𝕦𝕥: @About_KingWMP</blockquote>
-<blockquote>🔑 𝕀𝔻: <code>5042338756</code></blockquote>
-<blockquote>🌍 ℂ𝕠𝕦𝕟𝕥𝕣𝕪: Sri Lanka🇱🇰</b></blockquote>"""
+    MY_OWNER_TXT = """👨🏻‍💻 ℕ𝕒𝕞𝕖: <blockquote><b>Chethmina Kavishan</b></blockquote>
+🔎 𝕌𝕤𝕖𝕣𝕟𝕒𝕞𝕖: <blockquote><b>@KING_WMP</b></blockquote>
+🔮 𝔸𝕓𝕠𝕦𝕥: <blockquote><b>@About_KingWMP</b></blockquote>
+🔑 𝕀𝔻: <blockquote><code>5042338756</code></blockquote>
+🌍 ℂ𝕠𝕦𝕟𝕥𝕣𝕪: <blockquote><b>Sri Lanka🇱🇰</b></blockquote>"""
 
-    STATUS_TXT = """<blockquote>🗂 𝕋𝕠𝕥𝕒𝕝 𝔽𝕚𝕝𝕖𝕤: <code>{}</code></blockquote>
-<blockquote>👤 𝕋𝕠𝕥𝕒𝕝 𝕌𝕤𝕖𝕣𝕤: <code>{}</code></blockquote>
-<blockquote>👥 𝕋𝕠𝕥𝕒𝕝 ℂ𝕙𝕒𝕥𝕤: <code>{}</code></blockquote>
-<blockquote>🤑 ℙ𝕣𝕖𝕞𝕚𝕦𝕞 𝕌𝕤𝕖𝕣𝕤: <code>{}</code></blockquote>
-<blockquote>✨ 𝕌𝕤𝕖𝕕 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <code>{}</code></blockquote>
-<blockquote>🗳 𝔽𝕣𝕖𝕖 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <code>{}</code></blockquote>
-<blockquote>🚀 𝔹𝕠𝕥 𝕌𝕡𝕥𝕚𝕞𝕖: <code>{}</code></blockquote>"""
+    STATUS_TXT = """🗂 𝕋𝕠𝕥𝕒𝕝 𝔽𝕚𝕝𝕖𝕤: <blockquote><code>{}</code></blockquote>
+👤 𝕋𝕠𝕥𝕒𝕝 𝕌𝕤𝕖𝕣𝕤: <blockquote><code>{}</code></blockquote>
+👥 𝕋𝕠𝕥𝕒𝕝 ℂ𝕙𝕒𝕥𝕤: <blockquote><code>{}</code></blockquote>
+🤑 ℙ𝕣𝕖𝕞𝕚𝕦𝕞 𝕌𝕤𝕖𝕣𝕤: <blockquote><code>{}</code></blockquote>
+✨ 𝕌𝕤𝕖𝕕 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <blockquote><code>{}</code></blockquote>
+🗳 𝔽𝕣𝕖𝕖 𝕊𝕥𝕠𝕣𝕒𝕘𝕖: <blockquote><code>{}</code></blockquote>
+🚀 𝔹𝕠𝕥 𝕌𝕡𝕥𝕚𝕞𝕖: <blockquote><code>{}</code></blockquote>"""
 
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
@@ -76,22 +76,22 @@ I can't find the <b>{}</b> in my database! 🥲
 
 📝 ɴᴏᴛᴇ:- ʏᴏᴜ sʜᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ ɪɴ ɢʀᴏᴜᴘ. sᴇɴᴅ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ᴀɴ ᴀɴᴏɴʏᴍᴜs ᴀᴅᴍɪɴ.</b>"""
 
-    IMDB_TEMPLATE = """<blockquote>✅ 𝕀 𝔽𝕠𝕦𝕟𝕕: <code>{query}</code></blockquote>
+    IMDB_TEMPLATE = """✅ 𝕀 𝔽𝕠𝕦𝕟𝕕: <blockquote><code>{query}</code></blockquote>
 
-<blockquote>🏷 𝕋𝕚𝕥𝕝𝕖: <b><a href={url}>{title}</a></b>
-🎭 𝔾𝕖𝕟𝕣𝕖𝕤: <b>{genres}</b>
-📆 𝕐𝕖𝕒𝕣: <b><a href={url}/releaseinfo>{year}</a></b>
-🌟 ℝ𝕒𝕥𝕚𝕟𝕘: <b><a href={url}/ratings>{rating} / 10</a></b>
-🔊 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤: <b>{languages}</b>
-⏰ ℝ𝕦𝕟𝕋𝕚𝕞𝕖: <b>{runtime} Minutes</b></blockquote>
+🏷 𝕋𝕚𝕥𝕝𝕖: <blockquote><b><a href={url}>{title}</a></b></blockquote>
+🎭 𝔾𝕖𝕟𝕣𝕖𝕤: <blockquote><b>{genres}</b></blockquote>
+📆 𝕐𝕖𝕒𝕣: <blockquote><b><a href={url}/releaseinfo>{year}</a></b></blockquote>
+🌟 ℝ𝕒𝕥𝕚𝕟𝕘: <blockquote><b><a href={url}/ratings>{rating} / 10</a></b></blockquote>
+🔊 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤: <blockquote><b>{languages}</b></blockquote>
+⏰ ℝ𝕦𝕟𝕋𝕚𝕞𝕖: <blockquote><b>{runtime} Minutes</b></blockquote>
 
-<blockquote>🙋🏻‍♂ ℝ𝕖𝕢𝕦𝕖𝕤𝕥𝕖𝕕 𝔹𝕐: {message.from_user.mention}</blockquote>
-<blockquote>𝔾𝕣𝕠𝕦𝕡 ℕ𝕒𝕞𝕖: <b>{message.chat.title}</b></blockquote>
+🙋🏻‍♂ ℝ𝕖𝕢𝕦𝕖𝕤𝕥𝕖𝕕 𝔹𝕐: <blockquote>{message.from_user.mention}</blockquote>
+𝔾𝕣𝕠𝕦𝕡 ℕ𝕒𝕞𝕖: <blockquote><b>{message.chat.title}</b></blockquote>
 
 <blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
 
-    FILE_CAPTION = """<blockquote><b>🎞ℕ𝕒𝕞𝕖:</b> <code>{file_name}</code></blockquote>
-<blockquote><b>📥𝕊𝕚𝕫𝕖: {file_size}</b></blockquote>
+    FILE_CAPTION = """<blockquote>🎞ℕ𝕒𝕞𝕖: <code>{file_name}</code>
+    📥𝕊𝕚𝕫𝕖: <b>{file_size}</b></blockquote>
 
 <blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐: <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
 
@@ -131,10 +131,10 @@ I can't find the <b>{}</b> in my database! 🥲
 /set_tutorial - to set custom tutorial link in result page button
 /id - to check group or channel id</b>"""
     
-    SOURCE_TXT = """<blockquote><b>🔮𝕊𝕠𝕦𝕣𝕔𝕖 ℂ𝕠𝕕𝕖- <a href=https://t.me/+VhJIV2F3RxljNTNl>Click Here</a></blockquote>
+    SOURCE_TXT = """🔮𝕊𝕠𝕦𝕣𝕔𝕖 ℂ𝕠𝕕𝕖 - <blockquote><b><a href=https://t.me/+VhJIV2F3RxljNTNl>Click Here</a></b></blockquote>
 
-<blockquote>👨🏻‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></blockquote>
-<blockquote>⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐 - <a href=https://telegram.me/CK4U2>CK4U2</a></b></blockquote>"""
+👨🏻‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 - <blockquote><b><a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b></blockquote>
+⚡ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝔹𝕐 - <blockquote><b><a href=https://telegram.me/CK4U2>CK4U2</a></b></b></blockquote>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
